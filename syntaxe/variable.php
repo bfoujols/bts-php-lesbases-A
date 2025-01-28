@@ -4,6 +4,4 @@
 
     echo "Je m'appelle " . $nameUser . " j'ai " . $age . " ans \n";
 
-
-
 ?>
