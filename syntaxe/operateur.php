@@ -2,16 +2,12 @@
 
 // incrementation
 $item = 0;
-
 // 1
 $item += 1;
-
 // 2
 $item = $item + 1;
-
 // 3
 $item++;
-
 echo "Incrementation de la variable \$item = " . $item . " \r";
 
 // Opération de calcul
